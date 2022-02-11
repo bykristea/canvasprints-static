@@ -56,7 +56,7 @@ export default function NavBar() {
             leaveFrom="opacity-100"
             leaveTo="opacity-0"
           >
-            <Dialog.Overlay className="fixed inset-0 bg-black bg-opacity-25" />
+            <Dialog.Overlay className="fixed inset-0 bg-gray-900 bg-opacity-25" />
           </Transition.Child>
 
           <Transition.Child
